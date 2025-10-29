@@ -1,0 +1,5 @@
+{
+  "name": "Magic Architecture Presentation",
+  "description": "An interactive web presentation explaining a modern, 'magic' architecture for building SCORM-compatible single-page applications using React without a complex build process.",
+  "requestFramePermissions": []
+}
